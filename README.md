@@ -1,0 +1,1 @@
+# HP 14-CF2504NA EFI Files
